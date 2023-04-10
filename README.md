@@ -42,47 +42,47 @@ The following text should be included underneath the image:
 
 The following dogs should each be listed with their image and traits. The description should be used for an [`alt` attribute on the image](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/alt).
 
-1.  Beans  
+1. Beans  
 description: A black-and-white shaggy dog  
 image: images/beans.jpg
 traits: Adult, Male, Medium, Easygoing, Good with cats  
 
-1.  Zelda  
+2. Zelda  
 description: A Boston Terrier  
 image: images/boston-terrier.jpg  
 traits: Senior, Female, Small, Easygoing, Good with kids, Good with other dogs
 
-1.  Baby  
-description: A brown Boxer  
+3. Baby  
+desription: A brown Boxer  
 image: images/boxer.jpg  
 traits: Young, Female, Large, Energetic, Good with kids, Good with other dogs
 
-1.  Tom-Tom  
+4. Tom-Tom  
 description: A golden Lab  
 image: images/golden-lab.jpg  
 traits: Young, Male, Large, Energetic, Good with kids, Good with other dogs, Good with cats
 
-1. Marco  
+5. Marco  
 description: A little fuzzy dog
 image: images/little-dog.jpg
 traits: Adult, Male, Small, Energetic
 
-1.  Shackleton  
+6. Shackleton  
 description: A shaggy white dog  
 image: images/old-shaggy.jpg  
 traits: Adult, Male, Medium, Easygoing, Energetic, Good with kids, Good with other dogs, Good with cats
 
-1.  Midge  
+7. Midge  
 description: A Shih-Tzu  
 image: images/shih-tzu.jpg  
 traits: Adult, Female, Small, Easygoing, Good with kids  
 
-1.  Ladybird  
+8. Ladybird  
 description: A silly Boxer  
 image: images/young-bulldog.jpg  
 traits: Young, Female, Large, Easygoing, Energetic, Good with kids, Good with other dogs, Good with cats
 
-1.  Mina  
+9. Mina  
 description: A young brown and white dog  
 image: images/young-peppy.jpg  
 traits: Puppy, Female, Medium, Energetic, Good with kids, Good with other dogs, Good with cats
