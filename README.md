@@ -24,7 +24,7 @@ Make sure that you only show links to pages _other than_ the one you are on. For
 
 ### Home Page
 
-The homepage should have the name of the business as a level 1 heading, followed by a picture of a pet owner playing with a dog (images/home-hero.jpg).
+The homepage should have the name of the business as a level 1 heading, followed by a picture of an adorable dog (images/dog-hero.jpg).
 
 The following text should be included underneath the image:
 
